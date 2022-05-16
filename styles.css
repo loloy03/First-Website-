@@ -1,0 +1,159 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: "Outfit", sans-serif;
+  text-align: center;
+  color: #54bab9;
+}
+
+p {
+  line-height: 2;
+}
+
+hr.hr-top-container {
+  height: 0.2%;
+  background-color: #54bab9;
+  width: 30%;
+  margin: 1% auto 0 auto;
+}
+
+h1.name {
+  font-size: 900%;
+  padding-top: 20%;
+}
+
+div.header {
+  position: absolute;
+  width: 80%;
+  right: 0%;
+  top: 11%;
+}
+
+p.header {
+  display: inline-block;
+  font-size: 150%;
+  margin-left: 10%;
+}
+
+img.logoimage {
+  width: 8%;
+  position: absolute;
+  border-radius: 50%;
+  left: 3%;
+  top: 5%;
+  border: 3px solid black;
+  border-color: #54bab9;
+}
+
+.top-container {
+  background-color: #fbf8f1;
+  height: 1000px;
+}
+
+/*MID CONTAINER*/
+.mid-container {
+  background-color: #f7ecde;
+  height: 2500px;
+  padding: 10%;
+}
+
+.hr-design {
+  border: 30px solid #c4c4c4;
+  border-style: dotted none none none;
+  width: 30%;
+  margin: 0 auto 0 auto;
+}
+.catlogo-mid-container {
+  width: 30%;
+  border-radius: 100%;
+  border: 3px;
+  margin: 5%;
+}
+
+.h1-midcontainer {
+  font-size: 300%;
+  font-weight: 600;
+  margin-top: 1%;
+  letter-spacing: 10px;
+}
+
+p.p-mid-container {
+  color: black;
+  font-size: 150%;
+  padding: 2% 20% 1% 20%;
+  margin-bottom: 10%;
+  text-align: left;
+}
+
+.div-what-iwant-todo {
+  width: 50%;
+  margin: auto;
+  width: 70%;
+}
+
+.image-leisurebiking {
+  width: 30%;
+  border-radius: 100%;
+  float: left;
+  margin-right: 3%;
+}
+
+.image-coding {
+  width: 30%;
+  border-radius: 100%;
+  float: right;
+  margin-left: 2%;
+}
+
+.h2-midcontainter {
+  margin-top: 10%;
+  font-size: 200%;
+  letter-spacing: 6px;
+}
+
+.projectwanttostarted {
+  color: black;
+  font-size: 150%;
+  text-align: center;
+  margin-top: 4%;
+}
+
+.button {
+  margin: 10% 0 10% 0;
+  background-color: #54bab9;
+  color: white;
+  font-size: 200%;
+  border: 1px solid white;
+  padding: 1%;
+  text-align: center;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #3b7978;
+}
+
+/*BOTTOM CONTAINER*/
+.bottom-container {
+  background-color: #e9dac1;
+  height: 150px;
+  position: relative;
+  padding: 5%;
+}
+
+a {
+  color: black;
+  font-size: 150%;
+  padding: 0 10% 0 10%;
+}
+
+.a-div {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 10%;
+}
+
+.credits {
+  color: black;
+}
